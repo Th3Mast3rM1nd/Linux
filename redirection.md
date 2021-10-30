@@ -27,3 +27,8 @@
 the standard output of a command can be sent into the standard input of another command using ```|```
 
 
+<img width="564" alt="Screen Shot 2021-10-30 at 18 16 42" src="https://user-images.githubusercontent.com/92652606/139540970-5d1aa73f-1951-478f-9b81-e0fb38bdfe7b.png">
+
+<img width="827" alt="Screen Shot 2021-10-30 at 18 17 06" src="https://user-images.githubusercontent.com/92652606/139540974-1bfb1352-5c6f-41ae-9743-5976978ad7ab.png">
+
+
