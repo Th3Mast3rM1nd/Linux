@@ -24,7 +24,9 @@
 ```alt + F ``` : move one word forward 
 
 ```Ctrl + K ``` : kill text  from the cursor location to the end .
+
 ```Ctrl + U ``` : kill text from the cursor location to the beginning . 
+
 ```Ctrl + D ``` : delete the char at the cursor.
 
 
