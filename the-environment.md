@@ -10,7 +10,7 @@
 
 <img width="815" alt="Screen Shot 2021-10-30 at 20 33 08" src="https://user-images.githubusercontent.com/92652606/139554347-8737c12d-698e-415b-9b66-24fff8a1d878.png">
 
-***Some Interesting Variables ***
+***Some Interesting Variables***
 
 ![environmentvariables](https://user-images.githubusercontent.com/92652606/139554363-c0944ca1-88d9-4496-8af3-75cf13687c63.png)
 
