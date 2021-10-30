@@ -19,3 +19,19 @@
 * ```rm [pmn]*.txt``` : wil remove any file start with ```p``` , ```m``` or ```n```
 * ```cp [ abc]* ``` : any file beginning with either ```a``` , ```b``` , ```c```. 
 
+<img width="421" alt="Screen Shot 2021-10-30 at 17 28 52" src="https://user-images.githubusercontent.com/92652606/139539479-d35716f7-54e1-4ea0-bc76-c0b4ba89db2a.png">
+
+***[! char ] : any char is not a member of set characters ***
+
+*```rm [!abc]*.txt``` : will remove any files dosent start with ```a``` or ```b``` or ```c```
+
+***[ [ : class char :]] : any char that is a member of the specified class ***
+
+* ```[[:alnum:]]``` : any alphanumeric char.
+* ```[[:alpha:]]``` : any alphabetic char.
+* ```[[:digit:]]``` : any numeral.
+* ```[[:lower:]]``` : any lowercase.
+* ```[[:upper:]]``` : any uppercase. 
+<img width="722" alt="Screen Shot 2021-10-30 at 17 39 32" src="https://user-images.githubusercontent.com/92652606/139539820-b90a4aec-e464-4fe6-b69d-1cab49d3bbc7.png">
+
+
