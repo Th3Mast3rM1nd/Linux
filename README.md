@@ -11,8 +11,8 @@
 Command Line Topics :
 
 1. [Navigating the System](https://github.com/Th3Mast3rM1nd/Linux/blob/master/Navigating%20the%20System.md)
-2. [Packets](https://github.com/Th3Mast3rM1nd/Networking/blob/main/Packets.md)
-3. [OSI Model](https://github.com/Th3Mast3rM1nd/Networking/blob/main/OSI_Model.md)
+2. [Exploring The System](https://github.com/Th3Mast3rM1nd/Linux/blob/master/exploring-the-system.md)
+3. [Manipulating Files and Directories](https://github.com/Th3Mast3rM1nd/Networking/blob/main/OSI_Model.md)
 4. [TCP/IP Model](https://github.com/Th3Mast3rM1nd/Networking/blob/main/TCP_IP_Model.md)
 5. [Type Of Communication](https://github.com/Th3Mast3rM1nd/Networking/blob/main/Type_of_Communication.md)
 6. [IPV4](https://github.com/Th3Mast3rM1nd/Networking/blob/main/IPv4.md)
