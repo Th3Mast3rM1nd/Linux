@@ -7,7 +7,7 @@
 
 <img width="490" alt="Screen Shot 2021-10-30 at 18 46 51" src="https://user-images.githubusercontent.com/92652606/139541881-d60ab3e3-6504-4feb-bf8e-821a831f7642.png">
 
-``` !!3158 we get the contents of the line 88 in history``` 
+``` !3158 we get the contents of the line 3158 in history``` 
 
 ```Ctrl + A ``` : move the cursor to the beginning of the line 
 
