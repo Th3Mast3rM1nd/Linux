@@ -29,5 +29,5 @@ Command Line Topics :
 17. [Archiving And Backup](https://github.com/Th3Mast3rM1nd/Linux/blob/master/archiving-and-backup.md)
 18. [Grep](https://github.com/Th3Mast3rM1nd/Linux/blob/master/grep.md)
 19. [Regular Expressions](https://github.com/Th3Mast3rM1nd/Linux/blob/master/regular-expressions.md)
-20. [Text Processing](https://b10ta.gitbook.io/linux/text-processing)
+20. [Text Processing](https://github.com/Th3Mast3rM1nd/Linux/blob/master/text-processing.md)
 21. [Sed & awk ](https://github.com/Th3Mast3rM1nd/Linux/blob/master/Sed_and_awk.md)
