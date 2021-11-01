@@ -34,6 +34,34 @@
                   
 <img width="563" alt="Screen Shot 2021-11-01 at 11 16 26" src="https://user-images.githubusercontent.com/92652606/139656684-b704d8b0-09ec-4f52-a4be-65d02a259f28.png">
 
+# awk 
+
+***print first field***
+
+<img width="481" alt="Screen Shot 2021-11-01 at 11 24 21" src="https://user-images.githubusercontent.com/92652606/139657596-3abefb1d-0d8f-4f90-967e-09309a26fa48.png">
+
+***print second field***
+
+<img width="429" alt="Screen Shot 2021-11-01 at 11 25 10" src="https://user-images.githubusercontent.com/92652606/139657674-cc21621b-d69e-4195-8095-bc3b3500569b.png">
+
+```-F``` : field separator 
+
+<img width="589" alt="Screen Shot 2021-11-01 at 11 28 45" src="https://user-images.githubusercontent.com/92652606/139658079-04a4a958-d86a-41f5-8bbb-0248fde8f6a2.png">
+
+```$NF``` : last field 
+
+<img width="644" alt="Screen Shot 2021-11-01 at 11 30 01" src="https://user-images.githubusercontent.com/92652606/139658238-d31aa9e4-38c2-47c7-93c0-f30dfe12c331.png">
+
+<img width="573" alt="Screen Shot 2021-11-01 at 11 37 34" src="https://user-images.githubusercontent.com/92652606/139659119-4d98382a-90c2-4d2a-8e4f-77b1ed9f62fb.png">
+
+***awk and Regular expressions***
+
+<img width="664" alt="Screen Shot 2021-11-01 at 11 39 38" src="https://user-images.githubusercontent.com/92652606/139659425-ad2b7c79-49f0-48d5-b6ef-4ce6ddae3f4a.png">
+
+<img width="510" alt="Screen Shot 2021-11-01 at 11 43 43" src="https://user-images.githubusercontent.com/92652606/139659802-8aa990a1-e890-43d5-aea3-dac08388e7da.png">
+
+
+
 
                                                                
 
