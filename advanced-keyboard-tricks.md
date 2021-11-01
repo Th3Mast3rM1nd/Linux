@@ -11,22 +11,32 @@
 
 ```Ctrl + A ``` : move the cursor to the beginning of the line 
 
-```Ctrl + E ``` : move the cursor to the end of the line 
+```Ctrl + E``` : move the cursor to the end of the line 
 
-```Ctrl + F ``` :  move one char forward 
+```Ctrl + F``` :  move one char forward 
 
-```Ctrl + B ``` : move one char backward 
+```Ctrl + B``` : move one char backward 
 
-```alt + L ``` : Clear the screen like ```clear```
+```alt + L``` : Clear the screen like ```clear```
 
-```alt + B ``` : move one word backward 
+```alt + B``` : move one word backward 
 
-```alt + F ``` : move one word forward 
+```alt + F``` : move one word forward 
 
-```Ctrl + K ``` : kill text  from the cursor location to the end .
+```Ctrl + K``` : kill text  from the cursor location to the end .
 
-```Ctrl + U ``` : kill text from the cursor location to the beginning . 
+```Ctrl + U``` : kill text from the cursor location to the beginning . 
 
-```Ctrl + D ``` : delete the char at the cursor.
+```Ctrl + D``` : delete the char at the cursor.
+
+```Ctrl + Z```: send a running program in the background.
+
+```Ctrl + r```: search in command history.
+
+```Ctrl + s```: pause terminal output
+
+```Ctrl + q```: Resume the terminal output is the opposit of Ctrl+s
+
+
 
 
